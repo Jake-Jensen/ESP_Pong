@@ -11,4 +11,4 @@ There's no way of actually playing yet. I do plan on adding support for either c
 
 Depends on the Heltec (https://github.com/HelTecAutomation/Heltec_ESP32) library, so no real Go display support. Regular SSD1306 should work with some tweaking.
 
-The code is really sloppy ^.^
+The code is really sloppy ^.^ Some of it doesn't make sense, or is leftover code from when I tried to make dumb AIs play the game. Once I get this looking how I like it I will go over and fix these quirks. 
